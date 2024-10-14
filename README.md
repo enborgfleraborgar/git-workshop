@@ -77,3 +77,5 @@ The `difficulty` variable can be changed with the values provided in the comment
 ## Prerequisites
 * [Python](https://www.python.org)
 * [Pygame](https://www.pygame.org/wiki/GettingStarted), an open source Python library for making multimedia applications
+
+**Em**
